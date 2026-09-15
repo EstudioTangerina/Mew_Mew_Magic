@@ -581,11 +581,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PinkActions
   battle_Box: {fileID: 825543073}
   alvo: {fileID: 322938751}
-  tempoDeVoo: 1
+  tempoDeVoo: 0.6
   alturaDoArco: 3.5
   soundEffects:
-  - {fileID: 8300000, guid: 2b570d6bd6c1ac14b8f892b7dabf7924, type: 3}
-  - {fileID: 8300000, guid: 0ed809ca9f0c7f7428c1772ffcf7ddab, type: 3}
+  - {fileID: 8300000, guid: 2ecfdd605f7cabc40850451c473cb20b, type: 3}
+  - {fileID: 8300000, guid: 9335094c6bf694e4bb4cc9184e251a82, type: 3}
+  - {fileID: 8300000, guid: c635976c567cca347a27638852503621, type: 3}
 --- !u!61 &990655417
 BoxCollider2D:
   m_ObjectHideFlags: 0

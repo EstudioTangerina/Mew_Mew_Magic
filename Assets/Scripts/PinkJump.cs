@@ -83,6 +83,10 @@ public class PinkJump : MonoBehaviour
         anim.Play("Laugh w/ Tea");
         gameObject.GetComponent<AudioSource>().enabled = true;
         gameObject.GetComponent<AudioSource>().PlayOneShot(soundEffects[0]);
+        
+        yield return new WaitForSeconds(5);
+        gameObject.transform.DOLocalMoveX(1.32f, 1f).SetEase(Ease.OutCubic);
+        gameObject.GetComponent<AudioSource>().PlayOneShot(soundEffects[2]);
 
         yield return new WaitForSeconds(5);
         anim.Play("Shocked");
