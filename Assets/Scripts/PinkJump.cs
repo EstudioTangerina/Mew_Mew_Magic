@@ -21,11 +21,17 @@ public class PinkJump : MonoBehaviour
     [Tooltip("Array de Audio para SoundEffects")]
     public AudioClip[] soundEffects;
 
+    GeradorDeGotas gotas;
+
+    public GameObject liquido_Roxo;
+
 
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        
+        gotas = GetComponent<GeradorDeGotas>();
         
         if (alvo != null)
         {
@@ -88,10 +94,19 @@ public class PinkJump : MonoBehaviour
         gameObject.transform.DOLocalMoveX(1.32f, 1f).SetEase(Ease.OutCubic);
         gameObject.GetComponent<AudioSource>().PlayOneShot(soundEffects[2]);
 
-        yield return new WaitForSeconds(5);
-        anim.Play("Shocked");
-        gameObject.transform.DOShakeScale(1f, 0.5f);
-        gameObject.GetComponent<AudioSource>().PlayOneShot(soundEffects[1]);
-        yield return null;
+        yield return new WaitForSeconds(3);
+        gotas.IniciarGotas();
+        
+        yield return new WaitForSeconds(4);
+        if(gotas.estaDerramando == false)
+        {
+            liquido_Roxo.GetComponent<SpriteRenderer>().DOFade(0f, 2f);
+             yield return new WaitForSeconds(3);
+            anim.Play("Shocked");
+            gameObject.transform.DOShakeScale(1f, 0.5f);
+            gameObject.GetComponent<AudioSource>().PlayOneShot(soundEffects[1]);
+            yield return null;
+        }
+       /* */
     }
 }
