@@ -898,6 +898,7 @@ MonoBehaviour:
   intervaloEntreGotas: 0.2
   forcaInicial: {x: -0.87, y: 1}
   estaDerramando: 0
+  Box: {fileID: 1897291661}
 --- !u!1 &1053989609
 GameObject:
   m_ObjectHideFlags: 0
@@ -1302,7 +1303,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1897291662
 Transform:
   m_ObjectHideFlags: 0

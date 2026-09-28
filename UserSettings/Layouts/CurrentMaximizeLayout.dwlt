@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 112}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 3814
+  controlID: 1423
   draggingID: 0
 --- !u!114 &2
 MonoBehaviour:
@@ -155,7 +155,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 112}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 3815
+  controlID: 1424
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -181,7 +181,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 56}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 3800
+  controlID: 1425
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -251,7 +251,7 @@ MonoBehaviour:
     m_DynamicPanelBehaviorModified: 0
   m_ViewState:
     ValidContent: 10
-    ViewModelState: 7adaee72040000001c0000004c020000020000000c000000ffffffff2212f54802000000180000000100000076fa4866010000002c0000000b000000c8c9af62baef4e888cf5512847f7a620a90500000009000001000000020000007cb8f51e000000000000000000000000c8c9af62baef4e888cf5512847f7a620df6c0000000100000000000002000000f036eb24000000000000000000000000c8c9af62baef4e888cf5512847f7a620e46c000000010000000000000200000068d77f79507fb8e0b320601400000000c8c9af62baef4e888cf5512847f7a620ea6c00000001000003000000020000005351112e000000000000000000000000c8c9af62baef4e888cf5512847f7a6200f790000000900000000000002000000ee12317e000000000000000000000000c8c9af62baef4e888cf5512847f7a620fe6c000000010000010000000200000040ed2551000000000000000000000000c8c9af62baef4e888cf5512847f7a620f86c0000000100000000000002000000161abb41000000000000000000000000c8c9af62baef4e888cf5512847f7a620f46c000000010000000000000200000068d77f79507fb8e0bb8b115500000000c8c9af62baef4e888cf5512847f7a620e76c00000001000001000000020000008d5f1671000000000000000000000000c8c9af62baef4e888cf5512847f7a620816f00000033000001000000020000007ea73f13000000000000000000000000c8c9af62baef4e888cf5512847f7a6204f690000000300000000000002000000e99ad23e000000000000000000000000c8c9af62baef4e888cf5512847f7a620f16c00000001000000000000y
+    ViewModelState: 7adaee72040000001c0000004c020000020000000c000000ffffffff2212f54802000000180000000100000076fa4866010000002c0000000b000000c8c9af62baef4e888cf5512847f7a620a90500000009000001000000020000007cb8f51e000000000000000000000000c8c9af62baef4e888cf5512847f7a620e36c0000000100000000000002000000f036eb24000000000000000000000000c8c9af62baef4e888cf5512847f7a620e86c000000010000000000000200000068d77f79507fb8e0b320601400000000c8c9af62baef4e888cf5512847f7a620f06c00000001000000000000020000005351112e000000000000000000000000c8c9af62baef4e888cf5512847f7a620eb6c0000000100000000000002000000ee12317e000000000000000000000000c8c9af62baef4e888cf5512847f7a6200b6d000000010000000000000200000040ed2551000000000000000000000000c8c9af62baef4e888cf5512847f7a620ff6c0000000100000000000002000000161abb41000000000000000000000000c8c9af62baef4e888cf5512847f7a620fb6c000000010000000000000200000068d77f79507fb8e0bb8b115500000000c8c9af62baef4e888cf5512847f7a620ed6c00000001000001000000020000008d5f1671000000000000000000000000c8c9af62baef4e888cf5512847f7a620066d00000001000002000000020000007ea73f13000000000000000000000000c8c9af62baef4e888cf5512847f7a62053690000000300000000000002000000e99ad23e000000000000000000000000c8c9af62baef4e888cf5512847f7a620f86c00000001000000000000y
     SearchText: 
     Columns:
     - ColumnId: Visibility
@@ -1112,9 +1112,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 4.46, y: -1.0900002, z: 0}
+    m_Target: {x: 1.2966791, y: -2.8763275, z: 0.08797294}
     speed: 2
-    m_Value: {x: 4.46, y: -1.0900002, z: 0}
+    m_Value: {x: 1.3153124, y: -2.8608918, z: 0.087406226}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1165,9 +1165,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10
+    m_Target: 1.202694
     speed: 2
-    m_Value: 10
+    m_Value: 1.2593656
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1272,7 +1272,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 56}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 3816
+  controlID: 1432
   draggingID: 0
 --- !u!114 &12
 MonoBehaviour:
@@ -1351,7 +1351,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Scripts
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1362,32 +1362,23 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 69
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Scripts
   m_LastFoldersGridSize: 69
-  m_LastProjectPath: D:\Github\Mew_Mew_Magic
+  m_LastProjectPath: "C:\\Users\\Bonif\xE1cio\\Documents\\GitHub\\Mew_Mew_Magic"
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_rawData: 12094627936020
+    - m_rawData: 1099511656227
     m_LastClickedID:
-      m_rawData: 12094627936020
+      m_rawData: 1099511656227
     m_ExpandedIDs:
     - m_rawData: 0
-    - m_rawData: 1099511655860
-    - m_rawData: 1099511655861
-    - m_rawData: 1099511655862
-    - m_rawData: 1099511655863
-    - m_rawData: 1099511655864
-    - m_rawData: 1099511656184
-    - m_rawData: 1099511656193
-    - m_rawData: 1099511656201
-    - m_rawData: 20890720956767
-    - m_rawData: 25288767467773
-    - m_rawData: 34084860489980
-    - m_rawData: 49478023278942
+    - m_rawData: 6442450943
+    - m_rawData: 1099511655938
+    - m_rawData: 1099511656219
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1421,18 +1412,9 @@ MonoBehaviour:
       m_rawData: 0
     m_ExpandedIDs:
     - m_rawData: 0
-    - m_rawData: 1099511655860
-    - m_rawData: 1099511655861
-    - m_rawData: 1099511655862
-    - m_rawData: 1099511655863
-    - m_rawData: 1099511655864
-    - m_rawData: 1099511656184
-    - m_rawData: 1099511656193
-    - m_rawData: 1099511656201
-    - m_rawData: 20890720956767
-    - m_rawData: 25288767467773
-    - m_rawData: 34084860489980
-    - m_rawData: 49478023278942
+    - m_rawData: 6442450943
+    - m_rawData: 1099511655938
+    - m_rawData: 1099511656219
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1461,10 +1443,10 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_rawData: 1099511655658
+    - m_rawData: 1099511655686
     m_LastClickedEntityId:
-      m_rawData: 1099511655658
-    m_HadKeyboardFocusLastEvent: 1
+      m_rawData: 1099511655686
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs:
     - m_rawData: 20890720958094
     - m_rawData: 27487790724385
@@ -1527,7 +1509,7 @@ MonoBehaviour:
   - {fileID: 16}
   - {fileID: 17}
   m_Selected: 1
-  m_LastSelected: 3
+  m_LastSelected: 2
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1604,18 +1586,9 @@ MonoBehaviour:
       m_rawData: 3298534913452
     m_ExpandedIDs:
     - m_rawData: 0
-    - m_rawData: 1099511655860
-    - m_rawData: 1099511655861
-    - m_rawData: 1099511655862
-    - m_rawData: 1099511655863
-    - m_rawData: 1099511655864
-    - m_rawData: 1099511656184
-    - m_rawData: 1099511656193
-    - m_rawData: 1099511656201
-    - m_rawData: 20890720956767
-    - m_rawData: 25288767467773
-    - m_rawData: 34084860489980
-    - m_rawData: 49478023278942
+    - m_rawData: 6442450943
+    - m_rawData: 1099511655938
+    - m_rawData: 1099511656219
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1649,18 +1622,9 @@ MonoBehaviour:
       m_rawData: 0
     m_ExpandedIDs:
     - m_rawData: 0
-    - m_rawData: 1099511655860
-    - m_rawData: 1099511655861
-    - m_rawData: 1099511655862
-    - m_rawData: 1099511655863
-    - m_rawData: 1099511655864
-    - m_rawData: 1099511656184
-    - m_rawData: 1099511656193
-    - m_rawData: 1099511656201
-    - m_rawData: 20890720956767
-    - m_rawData: 25288767467773
-    - m_rawData: 34084860489980
-    - m_rawData: 49478023278942
+    - m_rawData: 6442450943
+    - m_rawData: 1099511655938
+    - m_rawData: 1099511656219
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1941,7 +1905,7 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_LastSelectedObjectID:
-    m_rawData: 1099511655658
+    m_rawData: 1099511655686
 --- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1966,7 +1930,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 112}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 3895
+  controlID: 1309
   draggingID: 0
 --- !u!114 &19
 MonoBehaviour:
@@ -2040,7 +2004,7 @@ MonoBehaviour:
     m_CachedPref: -151
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastVerticalScrollValue: 941
+  m_LastVerticalScrollValue: 369
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:

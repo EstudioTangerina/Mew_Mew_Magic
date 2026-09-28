@@ -17,6 +17,8 @@ public class GeradorDeGotas : MonoBehaviour
     // Variável de controle
     public bool estaDerramando = false;
 
+    public GameObject Box;
+
     // Função que você pode chamar por botão, código ou Evento de Animação
     public void IniciarGotas()
     {
@@ -24,6 +26,7 @@ public class GeradorDeGotas : MonoBehaviour
         {
             estaDerramando = true;
             StartCoroutine(RotinaCriarGotas());
+            Box.SetActive(true);
         }
     }
 
