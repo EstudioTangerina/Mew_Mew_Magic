@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battleboxscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\bonif\u00E1cio\\documents\\github\\mew_mew_magic\\assets\\scripts\\pinkjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pinkjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\bonif\u00E1cio\\documents\\github\\mew_mew_magic\\assets\\scripts\\soulmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soulmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PinkJump.cs",
-              "DocumentMoniker": "C:\\Users\\Bonif\u00E1cio\\Documents\\GitHub\\Mew_Mew_Magic\\Assets\\Scripts\\PinkJump.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PinkJump.cs",
-              "ToolTip": "C:\\Users\\Bonif\u00E1cio\\Documents\\GitHub\\Mew_Mew_Magic\\Assets\\Scripts\\PinkJump.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PinkJump.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAYwDsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T01:23:25.696Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -53,14 +36,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\BattleBoxScript.cs",
               "ToolTip": "C:\\Users\\Bonif\u00E1cio\\Documents\\GitHub\\Mew_Mew_Magic\\Assets\\Scripts\\BattleBoxScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\BattleBoxScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-29T01:22:32.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SoulMovement.cs",
               "DocumentMoniker": "C:\\Users\\Bonif\u00E1cio\\Documents\\GitHub\\Mew_Mew_Magic\\Assets\\Scripts\\SoulMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SoulMovement.cs",
@@ -73,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "GeradorDeGotas.cs",
               "DocumentMoniker": "C:\\Users\\Bonif\u00E1cio\\Documents\\GitHub\\Mew_Mew_Magic\\Assets\\Scripts\\GeradorDeGotas.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GeradorDeGotas.cs",
@@ -81,11 +64,12 @@
               "RelativeToolTip": "Assets\\Scripts\\GeradorDeGotas.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T05:17:40.28Z"
+              "WhenOpened": "2026-09-28T05:17:40.28Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "MecanicaEncher.cs",
               "DocumentMoniker": "C:\\Users\\Bonif\u00E1cio\\Documents\\GitHub\\Mew_Mew_Magic\\Assets\\Scripts\\MecanicaEncher.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MecanicaEncher.cs",
