@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battleboxscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\bonif\u00E1cio\\documents\\github\\mew_mew_magic\\assets\\scripts\\soulmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soulmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\bonif\u00E1cio\\documents\\github\\mew_mew_magic\\assets\\scripts\\pinkjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pinkjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\bonif\u00E1cio\\documents\\github\\mew_mew_magic\\assets\\scripts\\geradordegotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\bonif\u00E1cio\\documents\\github\\mew_mew_magic\\assets\\scripts\\mecanicaencher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mecanicaencher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bonif\u00E1cio\\Documents\\GitHub\\Mew_Mew_Magic\\Assets\\Scripts\\SoulMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SoulMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bonif\u00E1cio\\Documents\\GitHub\\Mew_Mew_Magic\\Assets\\Scripts\\SoulMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SoulMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +34,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PinkJump.cs",
+              "DocumentMoniker": "C:\\Users\\Bonif\u00E1cio\\Documents\\GitHub\\Mew_Mew_Magic\\Assets\\Scripts\\PinkJump.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PinkJump.cs",
+              "ToolTip": "C:\\Users\\Bonif\u00E1cio\\Documents\\GitHub\\Mew_Mew_Magic\\Assets\\Scripts\\PinkJump.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PinkJump.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwDsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T01:23:25.696Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,22 +56,9 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\BattleBoxScript.cs",
               "ToolTip": "C:\\Users\\Bonif\u00E1cio\\Documents\\GitHub\\Mew_Mew_Magic\\Assets\\Scripts\\BattleBoxScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\BattleBoxScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-29T01:22:32.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SoulMovement.cs",
-              "DocumentMoniker": "C:\\Users\\Bonif\u00E1cio\\Documents\\GitHub\\Mew_Mew_Magic\\Assets\\Scripts\\SoulMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SoulMovement.cs",
-              "ToolTip": "C:\\Users\\Bonif\u00E1cio\\Documents\\GitHub\\Mew_Mew_Magic\\Assets\\Scripts\\SoulMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SoulMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T01:21:42.632Z",
               "EditorCaption": ""
             },
             {
@@ -64,8 +71,7 @@
               "RelativeToolTip": "Assets\\Scripts\\GeradorDeGotas.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T05:17:40.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T05:17:40.28Z"
             },
             {
               "$type": "Document",
@@ -78,6 +84,31 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T05:17:20.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SoulMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Bonif\u00E1cio\\Documents\\GitHub\\Mew_Mew_Magic\\Assets\\Scripts\\SoulMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoulMovement.cs",
+              "ToolTip": "C:\\Users\\Bonif\u00E1cio\\Documents\\GitHub\\Mew_Mew_Magic\\Assets\\Scripts\\SoulMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoulMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T01:27:03.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoulMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Bonif\u00E1cio\\Documents\\GitHub\\Mew_Mew_Magic\\Assets\\Scripts\\SoulMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoulMovement.cs",
+              "ToolTip": "C:\\Users\\Bonif\u00E1cio\\Documents\\GitHub\\Mew_Mew_Magic\\Assets\\Scripts\\SoulMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoulMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T01:21:42.632Z"
             }
           ]
         }

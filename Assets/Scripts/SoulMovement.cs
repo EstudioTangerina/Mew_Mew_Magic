@@ -9,6 +9,8 @@ public class SoulMovement : MonoBehaviour
 
     private Vector2 movementInput;
     private Rigidbody2D rb;
+    public float minX, maxX;
+    public float minY, maxY;
 
     void Start()
     {
@@ -29,5 +31,11 @@ public class SoulMovement : MonoBehaviour
     {
         // Move a alma aplicando o vetor de input multiplicado pela velocidade
         rb.linearVelocity = movementInput * moveSpeed;
+
+
+        Vector3 pos = transform.position;
+        pos.x = Mathf.Clamp(pos.x, minX, maxX);
+        pos.y = Mathf.Clamp(pos.y, minY, maxY);
+        transform.position = pos;
     }
 }

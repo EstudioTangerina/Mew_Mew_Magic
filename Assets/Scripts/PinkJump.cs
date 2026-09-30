@@ -25,6 +25,9 @@ public class PinkJump : MonoBehaviour
 
     public GameObject liquido_Roxo;
 
+    public GameObject Soul;
+
+    public Color testecor;
 
     void Awake()
     {
@@ -101,7 +104,8 @@ public class PinkJump : MonoBehaviour
         if(gotas.estaDerramando == false)
         {
             liquido_Roxo.GetComponent<SpriteRenderer>().DOFade(0f, 2f);
-             yield return new WaitForSeconds(3);
+            Soul.GetComponent<SpriteRenderer>().color = testecor;
+            yield return new WaitForSeconds(3);
             anim.Play("Shocked");
             gameObject.transform.DOShakeScale(1f, 0.5f);
             gameObject.GetComponent<AudioSource>().PlayOneShot(soundEffects[1]);
